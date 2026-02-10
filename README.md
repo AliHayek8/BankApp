@@ -28,11 +28,11 @@ This project is a **simple Java mini-project** designed to demonstrate **core co
 
 ##  Project Structure
 
-``bash
+```text
 src/
 └── org.example
 └── BankApp.java
-``
+```
 
 
 ---
